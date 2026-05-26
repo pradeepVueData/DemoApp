@@ -1,0 +1,61 @@
+{
+  "sdk_packages": {
+    "vd_basic_9F3A7K2M": {
+      "package": "Basic",
+      "is_active": true,
+      "features": {
+        "m3u8_playback": true,
+        "subtitle_support": true,
+        "playback_speed": true,
+        "multiple_resolution": true,
+        "multiple_audio": false,
+        "key_moments": false,
+        "drm_protection": false,
+        "screen_recording_prevention": false,
+        "signal_strength": false,
+        "ad_support": false
+      },
+      "limits": {
+        "streaming_minutes": 500
+      }
+    },
+    "vd_pro_L8Q2Z5XR": {
+      "package": "Pro",
+      "is_active": true,
+      "features": {
+        "m3u8_playback": true,
+        "subtitle_support": true,
+        "playback_speed": true,
+        "multiple_resolution": true,
+        "multiple_audio": true,
+        "key_moments": true,
+        "drm_protection": false,
+        "screen_recording_prevention": false,
+        "signal_strength": false,
+        "ad_support": false
+      },
+      "limits": {
+        "streaming_minutes": 5000
+      }
+    },
+    "vd_enterprise_X7N4P9QB": {
+      "package": "Enterprise",
+      "is_active": true,
+      "features": {
+        "m3u8_playback": true,
+        "subtitle_support": true,
+        "playback_speed": true,
+        "multiple_resolution": true,
+        "multiple_audio": true,
+        "key_moments": true,
+        "drm_protection": true,
+        "screen_recording_prevention": true,
+        "signal_strength": true,
+        "ad_support": true
+      },
+      "limits": {
+        "streaming_minutes": 50000
+      }
+    }
+  }
+}
