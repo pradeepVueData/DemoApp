@@ -10,7 +10,7 @@
         "airplay": false,
         "chromecast": false,
         "picture_in_picture": false,
-        "multiple_resolution": true,
+        "multiple_resolution": false,
         "multiple_audio": false,
         "key_moments": false,
         "drm_protection": false,
