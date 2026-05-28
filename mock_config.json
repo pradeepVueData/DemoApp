@@ -5,7 +5,7 @@
       "is_active": true,
       "features": {
         "m3u8_playback": true,
-        "subtitle_support": true,
+        "subtitle_support": false,
         "playback_speed": false,
         "airplay": false,
         "chromecast": false,
